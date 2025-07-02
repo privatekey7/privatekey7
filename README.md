@@ -33,10 +33,13 @@
 - [**debank-wallet-checker**](https://github.com/privatekey7/debank-wallet-checker) - Инструмент для анализа кошельков через DeBank API
 
 ## 📊 GitHub статистика
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=privatekey7&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=privatekey7&theme=dark&background=000000" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=privatekey7&theme=dark&background=000000" alt="GitHub Streak" />
 </div>
 
 ## 📫 Связь со мной
