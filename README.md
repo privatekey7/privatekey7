@@ -2,7 +2,7 @@
   <h1>
     <img src="https://cdn-icons-png.flaticon.com/128/7213/7213441.png" width="24"> Привет, я PrivateKey! | 
     <img src="https://cdn-icons-png.flaticon.com/128/6001/6001527.png" width="24"> Крипто-энтузиаст | 
-    <img src="https://cdn-icons-png.flaticon.com/128/2721/2721304.png" width="24"> Разработчик
+    <img src="https://cdn-icons-png.flaticon.com/128/2409/2409387.png" width="24"> Разработчик
   </h1>
 </div>
 
