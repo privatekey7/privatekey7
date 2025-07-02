@@ -16,12 +16,13 @@
 ## 🛠️ Мой стек технологий
 
 <div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" />
+  <a href="#"><img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="48" height="48" alt="JavaScript" /></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://cdn.simpleicons.org/typescript/3178C6" width="48" height="48" alt="TypeScript" /></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://cdn.simpleicons.org/python/3776AB" width="48" height="48" alt="Python" /></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://cdn.simpleicons.org/solidity/363636" width="48" height="48" alt="Solidity" /></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://cdn.simpleicons.org/nodedotjs/339933" width="48" height="48" alt="Node.js" /></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://cdn.simpleicons.org/web3dotjs/F16822" width="48" height="48" alt="Web3.js" /></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://cdn.simpleicons.org/ethereum/3C3C3D" width="48" height="48" alt="Ethereum" /></a>
 </div>
 
 ## 🔥 Проекты для Web3 экосистемы
