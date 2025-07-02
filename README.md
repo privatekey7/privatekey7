@@ -39,7 +39,11 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=privatekey7&theme=dark&background=000000" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=privatekey7&theme=radical" alt="GitHub Profile Summary" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=privatekey7&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ## 📫 Связь со мной
