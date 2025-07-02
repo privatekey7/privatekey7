@@ -28,14 +28,8 @@
   <a href="https://www.python.org/">
     <img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" alt="Python" width="45" height="45" />
   </a>&nbsp;&nbsp;
-  <a href="https://soliditylang.org/">
-    <img src="https://cdn-icons-png.flaticon.com/128/6132/6132221.png" alt="Solidity" width="45" height="45" />
-  </a>&nbsp;&nbsp;
   <a href="https://nodejs.org/">
     <img src="https://cdn-icons-png.flaticon.com/128/5968/5968322.png" alt="Node.js" width="45" height="45" />
-  </a>&nbsp;&nbsp;
-  <a href="https://web3js.org/">
-    <img src="https://cdn-icons-png.flaticon.com/128/8002/8002151.png" alt="Web3.js" width="45" height="45" />
   </a>&nbsp;&nbsp;
   <a href="https://ethereum.org/">
     <img src="https://cdn-icons-png.flaticon.com/128/7016/7016523.png" alt="Ethereum" width="45" height="45" />
@@ -48,9 +42,9 @@
 
 | Проект | Описание | Технологии |
 | ------ | -------- | ---------- |
-| [**Proxy-Quality-Checker**](https://github.com/privatekey7/Proxy-Quality-Checker) | Инструмент для проверки качества прокси-серверов | <img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" width="14"/> Python, Requests |
-| [**SVM_balance_checker**](https://github.com/privatekey7/SVM_balance_checker) | Утилита для проверки балансов в SVM блокчейне | <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" width="14"/> JavaScript, Web3 |
-| [**debank-wallet-checker**](https://github.com/privatekey7/debank-wallet-checker) | Инструмент для анализа кошельков через DeBank API | <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" width="14"/> JavaScript, API |
+| [**Proxy Quality Checker**](https://github.com/privatekey7/Proxy-Quality-Checker) | Инструмент для проверки качества прокси-серверов | <img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" width="14"/> Python, Requests |
+| [**SVM balance checker**](https://github.com/privatekey7/SVM_balance_checker) | Утилита для проверки балансов в SVM блокчейне | <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" width="14"/> JavaScript, Web3 |
+| [**debank wallet checker**](https://github.com/privatekey7/debank-wallet-checker) | Инструмент для анализа кошельков через DeBank API | <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" width="14"/> JavaScript, API |
 
 </div>
 
