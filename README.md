@@ -16,9 +16,7 @@
   </a>
 </div>
 
-<div align="center">
-  <h2><img src="https://cdn-icons-png.flaticon.com/128/2721/2721287.png" width="22"> Мой стек технологий</h2>
-</div>
+## <img src="https://cdn-icons-png.flaticon.com/128/2721/2721287.png" width="22"> Мой стек технологий
 
 <div align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
@@ -38,9 +36,7 @@
   </a>
 </div>
 
-<div align="center">
-  <h2><img src="https://cdn-icons-png.flaticon.com/128/2621/2621303.png" width="22"> Последние проекты</h2>
-</div>
+## <img src="https://cdn-icons-png.flaticon.com/128/2621/2621303.png" width="22"> Последние проекты
 
 <div align="center">
 
@@ -52,9 +48,7 @@
 
 </div>
 
-<div align="center">
-  <h2><img src="https://cdn-icons-png.flaticon.com/128/2255/2255206.png" width="22"> Активность</h2>
-</div>
+## <img src="https://cdn-icons-png.flaticon.com/128/2255/2255206.png" width="22"> Активность
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=privatekey7&theme=tokyonight" alt="GitHub Profile Summary" />
