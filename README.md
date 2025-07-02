@@ -35,6 +35,7 @@
 ## 📊 GitHub статистика
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=privatekey7&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=privatekey7&theme=dark&background=000000" alt="GitHub Streak" />
 </div>
 
