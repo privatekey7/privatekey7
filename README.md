@@ -53,7 +53,3 @@
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=privatekey7&theme=radical" alt="GitHub Profile Summary" />
 </div>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Не%20доверяй%20—%20проверяй.%20Блокчейн%20меняет%20мир%20к%20лучшему!" alt="Quote" />
-</div>
