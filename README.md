@@ -37,7 +37,7 @@
 
 </div>
 
-## <img src="https://cdn.simpleicons.org/githubactions/2088FF" width="24"> Моя активность
+## <img src="https://cdn.simpleicons.org/githubactions/2088FF" width="24"> Активность
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=privatekey7&theme=radical" alt="GitHub Profile Summary" />
