@@ -1,4 +1,4 @@
-# <img src="https://cdn-icons-png.flaticon.com/128/4428/4428785.png" width="24"> Привет, я PrivateKey! | <img src="https://cdn-icons-png.flaticon.com/128/6774/6774938.png" width="24"> Крипто-энтузиаст | <img src="https://cdn-icons-png.flaticon.com/128/6062/6062646.png" width="24"> Разработчик | <img src="https://cdn-icons-png.flaticon.com/128/2152/2152539.png" width="24"> Web3 исследователь
+# <img src="https://cdn-icons-png.flaticon.com/128/4428/4428785.png" width="24"> Привет, я PrivateKey! | <img src="https://cdn-icons-png.flaticon.com/128/6774/6774938.png" width="24"> Крипто-энтузиаст | <img src="https://cdn-icons-png.flaticon.com/128/6062/6062646.png" width="24"> Разработчик
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=privatekey7&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F0047F&icon_color=F0047F&text_color=FFFFFF" alt="GitHub Stats" />
