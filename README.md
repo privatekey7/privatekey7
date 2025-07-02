@@ -16,7 +16,7 @@
   </a>
 </div>
 
-## <img src="https://cdn-icons-png.flaticon.com/128/2721/2721287.png" width="22"> Мой стек технологий
+## <img src="https://cdn-icons-png.flaticon.com/128/3715/3715301.png" width="22"> Мой стек технологий
 
 <div align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
