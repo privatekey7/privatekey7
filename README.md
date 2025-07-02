@@ -31,9 +31,9 @@
 
 | Проект | Описание | Технологии |
 | ------ | -------- | ---------- |
-| [<img src="https://cdn.simpleicons.org/proxycheck/1F8ACB" width="20"/> **Proxy-Quality-Checker**](https://github.com/privatekey7/Proxy-Quality-Checker) | Инструмент для проверки качества прокси-серверов | <img src="https://cdn.simpleicons.org/python/3776AB" width="16"/> Python, Requests |
-| [<img src="https://cdn.simpleicons.org/solana/9945FF" width="20"/> **SVM_balance_checker**](https://github.com/privatekey7/SVM_balance_checker) | Утилита для проверки балансов в SVM блокчейне | <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="16"/> JavaScript, Web3 |
-| [<img src="https://cdn.simpleicons.org/ethereum/3C3C3D" width="20"/> **debank-wallet-checker**](https://github.com/privatekey7/debank-wallet-checker) | Инструмент для анализа кошельков через DeBank API | <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="16"/> JavaScript, API |
+| [**Proxy-Quality-Checker**](https://github.com/privatekey7/Proxy-Quality-Checker) | Инструмент для проверки качества прокси-серверов | <img src="https://cdn.simpleicons.org/python/3776AB" width="16"/> Python, Requests |
+| [**SVM_balance_checker**](https://github.com/privatekey7/SVM_balance_checker) | Утилита для проверки балансов в SVM блокчейне | <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="16"/> JavaScript, Web3 |
+| [**debank-wallet-checker**](https://github.com/privatekey7/debank-wallet-checker) | Инструмент для анализа кошельков через DeBank API | <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="16"/> JavaScript, API |
 
 </div>
 
