@@ -13,9 +13,6 @@
 <div align="center">
   <a href="https://t.me/privatekey7">
     <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="36" height="36" alt="Telegram"/>
-  </a>&nbsp;&nbsp;
-  <a href="#">
-    <img src="https://komarev.com/ghpvc/?username=privatekey7&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
   </a>
 </div>
 
