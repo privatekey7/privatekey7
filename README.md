@@ -20,25 +20,25 @@
 
 <div align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=50&height=50&lines=JS" width="50" height="50" alt="JavaScript" />
+    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
   </a>&nbsp;&nbsp;
   <a href="https://www.typescriptlang.org/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1000&pause=1000&color=3178C6&center=true&vCenter=true&width=50&height=50&lines=TS" width="50" height="50" alt="TypeScript" />
+    <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
   </a>&nbsp;&nbsp;
   <a href="https://www.python.org/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1000&pause=1000&color=3776AB&center=true&vCenter=true&width=50&height=50&lines=PY" width="50" height="50" alt="Python" />
+    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
   </a>&nbsp;&nbsp;
   <a href="https://soliditylang.org/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1000&pause=1000&color=363636&center=true&vCenter=true&width=50&height=50&lines=SOL" width="50" height="50" alt="Solidity" />
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Solidity.svg" alt="Solidity" width="65" height="65" />
   </a>&nbsp;&nbsp;
   <a href="https://nodejs.org/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1000&pause=1000&color=339933&center=true&vCenter=true&width=50&height=50&lines=NODE" width="50" height="50" alt="Node.js" />
+    <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="65" height="65" />
   </a>&nbsp;&nbsp;
   <a href="https://web3js.org/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1000&pause=1000&color=F16822&center=true&vCenter=true&width=50&height=50&lines=WEB3" width="50" height="50" alt="Web3.js" />
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Web3.svg" alt="Web3.js" width="65" height="65" />
   </a>&nbsp;&nbsp;
   <a href="https://ethereum.org/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1000&pause=1000&color=3C3C3D&center=true&vCenter=true&width=50&height=50&lines=ETH" width="50" height="50" alt="Ethereum" />
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Ethereum-Dark.svg" alt="Ethereum" width="65" height="65" />
   </a>
 </div>
 
