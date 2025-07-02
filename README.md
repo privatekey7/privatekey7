@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=privatekey7&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F0047F&icon_color=F0047F&text_color=FFFFFF" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=privatekey7&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=1E90FF&icon_color=1E90FF&text_color=FFFFFF" alt="GitHub Stats" />
 </div>
 
 <div align="center">
@@ -51,5 +51,5 @@
 ## <img src="https://cdn-icons-png.flaticon.com/128/2255/2255206.png" width="22"> Активность
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=privatekey7&theme=radical" alt="GitHub Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=privatekey7&theme=tokyonight" alt="GitHub Profile Summary" />
 </div>
