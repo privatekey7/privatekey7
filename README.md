@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2ZhYTRlMTUyZjVjYzJiYjQ1YWRjMjYyZDZmNjFiMmUyYzBmZDZkZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/LnQjpWaOBJxHB0fiyt/giphy.gif" width="40"> Привет, я PrivateKey!
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2ZhYTRlMTUyZjVjYzJiYjQ1YWRjMjYyZDZmNjFiMmUyYzBmZDZkZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/LnQjpWaOBJxHB0fiyt/giphy.gif" width="40"> Привет, я PrivateKey! | 🔐 Крипто-энтузиаст | Разработчик | Web3 исследователь
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=privatekey7&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -10,8 +10,6 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=privatekey7&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
 </div>
-
-## 🔐 Крипто-энтузиаст | Разработчик | Web3 исследователь
 
 ## 🛠️ Мой стек технологий
 
