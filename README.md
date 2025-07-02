@@ -48,7 +48,7 @@
 
 </div>
 
-## <img src="https://cdn-icons-png.flaticon.com/128/2593/2593683.png" width="22"> Активность
+## <img src="https://cdn-icons-png.flaticon.com/128/2255/2255206.png" width="22"> Активность
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=privatekey7&theme=radical" alt="GitHub Profile Summary" />
