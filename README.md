@@ -19,13 +19,27 @@
 ## <img src="https://cdn.simpleicons.org/codersrank/67A4AC" width="24"> Мой стек технологий
 
 <div align="center">
-  <a href="#"><img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="48" height="48" alt="JavaScript" /></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://cdn.simpleicons.org/typescript/3178C6" width="48" height="48" alt="TypeScript" /></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://cdn.simpleicons.org/python/3776AB" width="48" height="48" alt="Python" /></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://cdn.simpleicons.org/solidity/363636" width="48" height="48" alt="Solidity" /></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://cdn.simpleicons.org/nodedotjs/339933" width="48" height="48" alt="Node.js" /></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://cdn.simpleicons.org/web3dotjs/F16822" width="48" height="48" alt="Web3.js" /></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://cdn.simpleicons.org/ethereum/3C3C3D" width="48" height="48" alt="Ethereum" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=50&height=50&lines=JS" width="50" height="50" alt="JavaScript" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1000&pause=1000&color=3178C6&center=true&vCenter=true&width=50&height=50&lines=TS" width="50" height="50" alt="TypeScript" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.python.org/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1000&pause=1000&color=3776AB&center=true&vCenter=true&width=50&height=50&lines=PY" width="50" height="50" alt="Python" />
+  </a>&nbsp;&nbsp;
+  <a href="https://soliditylang.org/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1000&pause=1000&color=363636&center=true&vCenter=true&width=50&height=50&lines=SOL" width="50" height="50" alt="Solidity" />
+  </a>&nbsp;&nbsp;
+  <a href="https://nodejs.org/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1000&pause=1000&color=339933&center=true&vCenter=true&width=50&height=50&lines=NODE" width="50" height="50" alt="Node.js" />
+  </a>&nbsp;&nbsp;
+  <a href="https://web3js.org/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1000&pause=1000&color=F16822&center=true&vCenter=true&width=50&height=50&lines=WEB3" width="50" height="50" alt="Web3.js" />
+  </a>&nbsp;&nbsp;
+  <a href="https://ethereum.org/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1000&pause=1000&color=3C3C3D&center=true&vCenter=true&width=50&height=50&lines=ETH" width="50" height="50" alt="Ethereum" />
+  </a>
 </div>
 
 ## <img src="https://cdn.simpleicons.org/githubactions/2088FF" width="24"> Последние проекты 
