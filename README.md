@@ -13,21 +13,6 @@
 
 ## 🔐 Крипто-энтузиаст | Разработчик | Web3 исследователь
 
-```solidity
-// SPDX-License-Identifier: MIT
-pragma solidity ^0.8.0;
-
-contract AboutMe {
-    string public name = "PrivateKey";
-    string public role = "Web3 Developer";
-    string[] public skills = ["JavaScript", "Python", "Solidity", "DeFi", "NFT"];
-    
-    function getContact() public pure returns (string memory) {
-        return "https://t.me/privatekey7";
-    }
-}
-```
-
 ## 🛠️ Мой стек технологий
 
 <div align="center">
