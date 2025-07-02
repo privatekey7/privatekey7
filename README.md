@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    <img src="https://cdn-icons-gif.flaticon.com/12744/12744452.gif" width="24"> Привет, я PrivateKey! | 
+    <img src="https://cdn-icons-png.flaticon.com/128/8040/8040933.png" width="24"> Привет, я PrivateKey! | 
     <img src="https://cdn-icons-png.flaticon.com/128/5675/5675014.png" width="24"> Крипто-энтузиаст | 
     <img src="https://cdn-icons-png.flaticon.com/128/2409/2409387.png" width="24"> Разработчик
   </h1>
