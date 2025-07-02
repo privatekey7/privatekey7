@@ -25,7 +25,7 @@
   <a href="#"><img src="https://cdn.simpleicons.org/ethereum/3C3C3D" width="48" height="48" alt="Ethereum" /></a>
 </div>
 
-## <img src="https://cdn.simpleicons.org/githubactions/2088FF" width="24"> Проекты для Web3 экосистемы
+## <img src="https://cdn.simpleicons.org/githubactions/2088FF" width="24"> Последние проекты 
 
 <div align="center">
 
