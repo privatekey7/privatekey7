@@ -44,7 +44,7 @@
 | ------ | -------- | ---------- |
 | [**Proxy Quality Checker**](https://github.com/privatekey7/Proxy-Quality-Checker) | Tool for checking proxy server quality | <img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" width="14"/> Python, Requests |
 | [**SVM balance checker**](https://github.com/privatekey7/SVM_balance_checker) | Utility for checking balances in SVM blockchain | <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" width="14"/> JavaScript, Web3 |
-| [**debank wallet checker**](https://github.com/privatekey7/debank-wallet-checker) | Tool for analyzing wallets via DeBank API | <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" width="14"/> JavaScript, API |
+| **[DeBankChecker](https://github.com/privatekey7/DeBankChecker)** | Tool for analyzing wallets via DeBank API | <img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" width="14"/> Python, Requests |
 
 </div>
 
