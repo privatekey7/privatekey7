@@ -1,54 +1,62 @@
 <div align="center">
   <h1>
-    <img src="https://cdn-icons-png.flaticon.com/128/8040/8040933.png" width="24"> Hi, I'm PrivateKey! | 
-    <img src="https://cdn-icons-png.flaticon.com/128/5675/5675014.png" width="24"> Crypto Enthusiast | 
-    <img src="https://cdn-icons-png.flaticon.com/128/2409/2409387.png" width="24"> Developer
+    <img src="https://cdn-icons-png.flaticon.com/128/8943/8943377.png" width="28"> AI / Automation Engineer
   </h1>
+  <p><em>Building AI agents, voice interfaces, and web3 automation — shipping real products with LLM-assisted development.</em></p>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=privatekey7&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=1E90FF&icon_color=1E90FF&text_color=FFFFFF" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <a href="https://t.me/privatekey7">
-    <img src="https://cdn-icons-png.flaticon.com/128/3670/3670070.png" width="32" height="32" alt="Telegram"/>
+  <a href="https://t.me/privatekey_ai">
+    <img src="https://img.shields.io/badge/Telegram-@privatekey__ai-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </div>
 
-## <img src="https://cdn-icons-png.flaticon.com/128/3715/3715301.png" width="22"> My Tech Stack
-
 <div align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" alt="JavaScript" width="45" height="45" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.typescriptlang.org/">
-    <img src="https://cdn-icons-png.flaticon.com/128/5968/5968381.png" alt="TypeScript" width="45" height="45" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.python.org/">
-    <img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" alt="Python" width="45" height="45" />
-  </a>&nbsp;&nbsp;
-  <a href="https://nodejs.org/">
-    <img src="https://cdn-icons-png.flaticon.com/128/5968/5968322.png" alt="Node.js" width="45" height="45" />
-  </a>&nbsp;&nbsp;
-  <a href="https://ethereum.org/">
-    <img src="https://cdn-icons-png.flaticon.com/128/7016/7016523.png" alt="Ethereum" width="45" height="45" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=privatekey7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" />
 </div>
 
-## <img src="https://cdn-icons-png.flaticon.com/128/2621/2621303.png" width="22"> Recent Projects
+---
 
-<div align="center">
+## 🛠 Stack
 
-| Project | Description | Technologies |
-| ------ | -------- | ---------- |
-| [**Proxy Quality Checker**](https://github.com/privatekey7/Proxy-Quality-Checker) | Tool for checking proxy server quality | <img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" width="14"/> Python, Requests |
-| [**SVM balance checker**](https://github.com/privatekey7/SVM_balance_checker) | Utility for checking balances in SVM blockchain | <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" width="14"/> JavaScript, Web3 |
-| **[DeBankChecker](https://github.com/privatekey7/DeBankChecker)** | Tool for analyzing wallets via DeBank API | <img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" width="14"/> Python, Requests |
+**Languages:** Python · TypeScript · JavaScript · Node.js
+**AI / LLM:** Claude Code · Cursor · OpenRouter · OpenAI / Anthropic / Gemini APIs · Qwen · Whisper · GigaAM · LLM agents · prompt engineering
+**Web3:** EVM (60+ networks) · Solana / SVM · DeFi protocols · DeBank API · on-chain analytics · proxy infrastructure
+**Engineering:** async Python · React · REST APIs · Telegram Bot API · CLI tools · desktop apps (Windows tray) · GitBook docs
 
-</div>
+---
 
-## <img src="https://cdn-icons-png.flaticon.com/128/2255/2255206.png" width="22"> Activity
+## 🚀 Featured Projects
+
+### 🎙 [Vox](https://github.com/privatekey7/Vox) — Offline voice-to-text for Windows
+Hold right Ctrl, speak, release — text appears at the cursor. Works in any app. **5 ML models** to choose from (Whisper / GigaAM v3 / Vosk / Parakeet / SenseVoice). Local inference, RU-localized IT-dictionary (1000+ terms), tray-app, no cloud, no telemetry.
+
+### 🤖 [FreeClaw](https://github.com/privatekey7/FreeClaw) — One-command Telegram AI agent deploy
+Spins up a Telegram AI agent (OpenClaw + Qwen via OpenRouter) on a fresh VPS with a single command. Handles **proxy-per-key rotation**, real-time rate-limit monitoring, automatic recovery.
+
+### 💱 [EVM-Farmer-Pro](https://github.com/privatekey7/EVM-Farmer-Pro) — Web3 automation platform
+Full-stack web app (React + Node.js) for EVM automation across **60+ networks**: bridges, swaps, stablecoin conversion, sub-account transfers. Local-first, key-safe architecture.
+
+### 📊 [DeBank-Pro](https://github.com/privatekey7/DeBank-Pro) — DeFi portfolio analytics
+Tracks DeFi assets across **90 networks and 600+ protocols**. Proxy rotation, Excel/CSV/JSON export, filters by chain/token/NFT. TypeScript.
+
+### 🧰 [Farmer_Pro](https://github.com/privatekey7/Farmer_Pro) — Modular web3 toolkit
+Desktop toolkit with pluggable modules: EVM/SVM balance checkers, token collector, proxy quality validator, Twitter/Discord token checker. Full [GitBook documentation](https://farmerpro.gitbook.io/).
+
+### ⚡ [DeBankChecker](https://github.com/privatekey7/DeBankChecker) — Async CLI wallet checker
+Production-grade async Python CLI: rate limiting, cooldown handling, proxy rotation, CSV/JSON export.
+
+---
+
+## 💡 Open Source
+
+Contributor to **[openvid](https://github.com/CristianOlivera1/openvid)** — added RU localization, switched to server-side key handling, fixed security issues. PR accepted by the author.
+
+---
+
+## 📡 Find me
+
+- **Telegram channel** → [@privatekey_ai](https://t.me/privatekey_ai) — guides and reviews on AI tooling (Claude Code, OpenCode, OpenRouter, agent frameworks)
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=privatekey7&theme=tokyonight" alt="GitHub Profile Summary" />
