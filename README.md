@@ -4,8 +4,6 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-@privatekey__ai-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/privatekey_ai)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=privatekey7&show_icons=true&hide_rank=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
-
 ---
 
 ## 🛠 Stack
